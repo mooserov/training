@@ -1,0 +1,37 @@
+Fall Protection
+1.	Competent person for working at heights.
+  1,3,4,5
+2.	Preparation procedures for heights.
+  1,2,3,4
+3.	What is required to safely work at heights.
+  1,3,5
+4.	Required criteria for training
+  1,2,3
+5.	Things to be checked on a used anchor.
+  1,2,3,4,5
+6.	If a harness was used during a fall you can keep using it.
+  False
+7.	Things to look for in harness webbing.
+  1,2,3,4,5
+8.	What must be included on the harness tag.
+  1,2,3,4,5
+9.	What are things needed for harness storage.
+  1,2,4,5
+10.	Where should the back d-ring be.
+  3
+11.	Once the harness is on another person should inspect it.
+  True
+12.	What should be done first to put on a harness.
+  2
+13.	You should attach the lanyard to a sturdy structure when on a lift
+  False.
+14.	How should you carry small items.
+  1,2,3
+15.	What are the duties of a scaffold competent person?
+  1,2,4,5
+16.	What should be included in a fall rescue plan
+  1,2,3,4
+17.	What equipment should be available to use for a fall rescue
+  1,2,3,4,5
+18.	Safety straps can relieve pressure in the legs helping prevent suspension trauma
+  true
